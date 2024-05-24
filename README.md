@@ -1,6 +1,6 @@
 # Eat-n-split
 
-This is a practice project.
+A practice project that lets you split your bills and manage who owes you and whom you owe.
 
 ## What's Included
 
